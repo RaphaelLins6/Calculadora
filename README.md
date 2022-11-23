@@ -4,12 +4,13 @@
 
 ☠️ Code to create a calculator.
 
-## Aprendizados
+## Aprendizados | Learnings
 
 ☠️ Aprendi a mexer com os operadores aritméticos
 em C.
 
 ☠️ I learned to work with arithmetic operators in C.
-## Stack utilizada
+
+## Stack utilizada | Stack used
 
 **Back-end:** Dev C++ | C
